@@ -10,8 +10,8 @@
 | 이름       | 역할              | GitHub Profile                         |
 |------------|-------------------|----------------------------------------|
 | 임규성     | Full Stack Developer | [GitHub Profile](https://github.com/gyural) |
-| 김나영     | Frontend Developer | [GitHub Profile](https://github.com/fairynayoung) |
-| 김선엽     | Backend Developer | [GitHub Profile](https://github.com/shipleaf) |
+| 김선엽     | Backend Developer | [GitHub Profile](https://github.com/fairynayoung) |
+| 김나영     | Frontend Developer | [GitHub Profile](https://github.com/shipleaf) |
 | 심동근     | Backend Developer | [GitHub Profile](https://github.com/dgsim126) |
 | 한시현     | Backend Developer | [GitHub Profile](https://github.com/devowl99) |
 
